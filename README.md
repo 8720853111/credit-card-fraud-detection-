@@ -42,6 +42,15 @@ Since the dataset is imbalanced:
   * Precision
   * Recall
   * F1-score
+            precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00    227449
+           1       0.92      0.66      0.77       396
+
+    accuracy                           1.00    227845
+   macro avg       0.96      0.83      0.88    227845
+weighted avg       1.00      1.00      1.00    227845
+
 
 ---
 
