@@ -1,29 +1,87 @@
 # credit-card-fraud-detection-
 Machine learning model to detect fraudulent transactions
-# Credit Card Fraud Detection
+# 💳 Credit Card Fraud Detection (End-to-End ML Project)
 
-## Problem Statement
+## 📌 Business Problem
 
-This project aims to detect fraudulent credit card transactions using machine learning techniques.
+Credit card fraud leads to significant financial losses. The goal is to build a machine learning model that can accurately identify fraudulent transactions.
 
-## Tools Used
+---
 
-* Python
-* Pandas, NumPy
-* Scikit-learn
-* Matplotlib, Seaborn
+## 📊 Dataset Overview
 
-## Approach
+* Highly imbalanced dataset
+* Fraud cases are rare compared to normal transactions
 
-* Data Cleaning
+---
+
+## 🔍 Key Steps
+
+* Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
+* Handling Imbalanced Data
+* Feature Engineering
 * Model Building
-* Evaluation
 
-## Result
+---
 
-The model helps identify fraudulent transactions and reduce financial risk.
+## 🤖 Models Used
 
-## Author
+* Logistic Regression
+* Random Forest
+
+---
+
+## 📈 Model Evaluation
+
+Since the dataset is imbalanced:
+
+* Accuracy is not reliable
+* Focus on:
+
+  * Precision
+  * Recall
+  * F1-score
+
+---
+
+## 📊 Key Insights
+
+* Fraud transactions follow different patterns than normal ones
+* Certain features strongly influence fraud detection
+* Model successfully identifies high-risk transactions
+
+---
+
+## 📷 Visualizations
+
+### Confusion Matrix
+
+(Add image here)
+
+### ROC Curve
+
+(Add image here)
+
+---
+
+## 🚀 How to Run
+
+```bash id="pro3"
+pip install -r requirements.txt
+jupyter notebook notebooks/fraud_detection.ipynb
+```
+
+---
+
+## 💡 Business Impact
+
+* Reduces financial losses
+* Improves fraud detection systems
+* Enhances customer trust
+
+---
+
+## 👤 Author
 
 Ashwini Khandelwal
