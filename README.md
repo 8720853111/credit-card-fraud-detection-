@@ -1,10 +1,11 @@
-# credit-card-fraud-detection-
-Machine learning model to detect fraudulent transactions
 # 💳 Credit Card Fraud Detection (End-to-End ML Project)
 
 ## 📌 Business Problem
 
 Credit card fraud leads to significant financial losses. The goal is to build a machine learning model that can accurately identify fraudulent transactions.
+
+## 📂 Dataset Source
+Dataset obtained from [mention source, e.g., Kaggle]
 
 ---
 
@@ -30,6 +31,12 @@ Credit card fraud leads to significant financial losses. The goal is to build a 
 * Logistic Regression
 * Random Forest
 
+## 🔍 Model Comparison
+
+| Model | Strength |
+|------|--------|
+| Logistic Regression | Simple, interpretable |
+| Random Forest | Better performance, handles imbalance well |
 ---
 
 ## 📈 Model Evaluation
@@ -42,10 +49,10 @@ Since the dataset is imbalanced:
   * Precision
   * Recall
   * F1-score
-            precision    recall  f1-score   support
-
-           0       1.00      1.00      1.00    227449
-           1       0.92      0.66      0.77       396
+| Class | Precision | Recall | F1-Score |
+|------|----------|--------|----------|
+| Normal | 1.00 | 1.00 | 1.00 |
+| Fraud  | 0.92 | 0.66 | 0.77 |        
 
     accuracy                           1.00    227845
    macro avg       0.96      0.83      0.88    227845
