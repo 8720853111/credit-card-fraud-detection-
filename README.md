@@ -55,6 +55,7 @@ Since the dataset is imbalanced:
 
 ## 📷 Visualizations
 <img width="408" height="278" alt="image" src="https://github.com/user-attachments/assets/6e02b4cc-d6be-414b-8a45-c205c12531ac" />
+<img width="391" height="278" alt="image" src="https://github.com/user-attachments/assets/a6c6b084-0d03-470f-afae-fda1f2cce1c8" />
 
 
 ### Confusion Matrix
