@@ -66,7 +66,8 @@ Since the dataset is imbalanced:
 
 ### ROC Curve
 
-(Add image here)
+<img width="338" height="333" alt="image" src="https://github.com/user-attachments/assets/bae5b83f-07ed-4731-a9a8-d16351272a74" />
+
 
 ---
 
