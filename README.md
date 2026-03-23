@@ -62,7 +62,9 @@ Since the dataset is imbalanced:
 
 ### Confusion Matrix
 
-(Add image here)
+[[227427     22]
+ [   135    261]]
+
 
 ### ROC Curve
 
