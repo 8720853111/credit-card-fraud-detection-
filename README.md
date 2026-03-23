@@ -49,15 +49,22 @@ Since the dataset is imbalanced:
   * Precision
   * Recall
   * F1-score
-| Class | Precision | Recall | F1-Score |
-|------|----------|--------|----------|
-| Normal | 1.00 | 1.00 | 1.00 |
-| Fraud  | 0.92 | 0.66 | 0.77 |        
+## 📈 Model Performance
 
-    accuracy                           1.00    227845
-   macro avg       0.96      0.83      0.88    227845
-weighted avg       1.00      1.00      1.00    227845
+### Classification Report
 
+| Class   | Precision | Recall | F1-Score | Support |
+|---------|----------|--------|----------|---------|
+| Normal  | 1.00     | 1.00   | 1.00     | 227449  |
+| Fraud   | 0.92     | 0.66   | 0.77     | 396     |
+
+---
+
+### Overall Metrics
+
+- **Accuracy:** 1.00  
+- **Macro Avg:** Precision = 0.96, Recall = 0.83, F1-score = 0.88  
+- **Weighted Avg:** Precision = 1.00, Recall = 1.00, F1-score = 1.00  
 
 ---
 
