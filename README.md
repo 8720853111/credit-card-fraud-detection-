@@ -81,6 +81,9 @@ Since the dataset is imbalanced:
 <img width="391" height="278" alt="image" src="https://github.com/user-attachments/assets/a6c6b084-0d03-470f-afae-fda1f2cce1c8" />
 <img width="488" height="328" alt="image" src="https://github.com/user-attachments/assets/bfd41da1-99cf-4ba8-a652-1dd623a3f7a0" />
 <img width="516" height="317" alt="image" src="https://github.com/user-attachments/assets/1a709d06-0f14-4024-8943-d83b8c0d6772" />
+<img width="1010" height="1583" alt="image" src="https://github.com/user-attachments/assets/cf016be3-7f2e-4e69-8c7b-21d6b2fd295b" />
+<img width="1012" height="1583" alt="image" src="https://github.com/user-attachments/assets/665e80a5-c65b-4fd3-8b83-8b4f5b7b6b26" />
+<img width="510" height="375" alt="image" src="https://github.com/user-attachments/assets/0dbd0c5e-0147-403e-ad2d-c0c25cb7bc0a" />
 
 
 ### Confusion Matrix
